@@ -6,7 +6,7 @@ A [TamperMonkey](https://www.tampermonkey.net/) userscript that helps you redire
 
 **After installation, please find this script in the TamperMonkey extension menu and configure your redirect rules.** ⬇️
 
-![image-20250530165249338](assets/image-20250530165249338.png)
+![image-20250530173026987](assets/image-20250530173026987.png)
 
 ## What is it for?
 
