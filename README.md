@@ -18,4 +18,6 @@ However, if you set a custom search engine, these suggestions often stop working
 
 With this script, you can keep Google as your default search engine to enjoy search suggestions, and then automatically redirect to your preferred search engine! 🥰
 
-**Scenario 2:** When using the Windows taskbar search, the default search engine is Bing, and Microsoft doesn't allow you to change it! 😥 With this script, you can redirect Bing searches to any search engine you like! 🥰 
+**Scenario 2:** When using the Windows taskbar search, the default search engine is Bing, and Microsoft doesn't allow you to change it! 😥 
+
+With this script, you can redirect Bing searches to any search engine you like! 🥰 
