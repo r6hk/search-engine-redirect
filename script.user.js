@@ -38,7 +38,7 @@
 // @namespace               https://github.com/r6hk/search-engine-redirect/
 // @homepage                https://github.com/r6hk/search-engine-redirect/
 // @supportURL              https://github.com/r6hk/search-engine-redirect/
-// @version                 1.0
+// @version                 1.0.1
 // @author                  r6hk
 // @match                   *://*/*
 // @grant                   GM_registerMenuCommand
@@ -47,6 +47,7 @@
 // @grant                   GM_getResourceText
 // @grant                   GM_addStyle
 // @run-at                  document-start
+// @license                 MIT
 // ==/UserScript==
 
 (function() {
